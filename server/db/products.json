@@ -1,0 +1,43 @@
+[{
+        "id_product": 1,
+        "imgProduct": "img/product-card-1.png",
+        "product_name": "First Product",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 52
+    },
+    {
+        "id_product": 2,
+        "imgProduct": "img/product-card-2.png",
+        "product_name": "Second Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 150
+    },
+    {
+        "id_product": 3,
+        "imgProduct": "img/product-card-3.png",
+        "product_name": "Third Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+        "price": 1000
+    },
+    {
+        "id_product": 4,
+        "imgProduct": "img/product-card-4.png",
+        "product_name": "Another Product",
+        "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+        "price": 500
+    },
+    {
+        "id_product": 5,
+        "imgProduct": "img/product-card-5.png",
+        "product_name": "One More Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "price": 300
+    },
+    {
+        "id_product": 6,
+        "imgProduct": "img/product-card-6.png",
+        "product_name": "Last Product",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur.",
+        "price": 2700000
+    }
+]

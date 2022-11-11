@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webshop Project</title>
+
+    <!-- Style -->
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+            rel="stylesheet">
+
+    <!-- External Scripts -->
+    <script src="https://kit.fontawesome.com/23f243ed64.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <!-- Scripts -->
+    <script src="js/components.js" defer></script>
+    <script src="js/main.js" defer></script>
+</head>
+
+<body>
+    <div id="app">
+        <header-comp ref="showCart"></header-comp>
+        <cart-comp ref="cart"></cart-comp>
+        <error ref="error"></error>
+        <main>
+            <brand-comp></brand-comp>
+            <categories-comp></categories-comp>
+            <products-list-comp ref="products"></products-list-comp>
+        </main>
+        <featured-comp></featured-comp>
+        <footer-comp></footer-comp>
+    </div>
+</body>
+
+</html>
